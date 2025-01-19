@@ -17,4 +17,4 @@ Topics Covered:
 
 ***Please see the [wiki page](https://github.com/savannahc502/SavC-TechJournal-NET330/wiki) for class notes and projects***
 
-This course continues in the [NET-215](https://github.com/savannahc502/SavC-TechJournal-NET215) class. 
+This course continues from the [NET-215](https://github.com/savannahc502/SavC-TechJournal-NET215) class. 
